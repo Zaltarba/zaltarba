@@ -2,8 +2,6 @@
 
 I am a graduating student with in-depth knowledge in finance, machine learning, statistics and econometrics. Highly motivated for a quantitative researcher position involving the use of econometric methods. Seeking full-time employment.
 
-About me :
-
 ## Education 🏫
 
 - [Polytechnique Paris](https://www.ip-paris.fr/en/home-en/) - [Master 2 Data Science](https://www.ip-paris.fr/en/education/masters/applied-mathematics-and-statistics-program/master-year-2-data-science) - *2022/2023* 
