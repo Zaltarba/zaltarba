@@ -2,7 +2,9 @@
 
 I am a graduating student with in-depth knowledge in finance, machine learning, statistics and econometrics. Highly motivated for a quantitative researcher position involving the use of econometric methods. Seeking full-time employment.
 
-# Education 🏫
+About me :
+
+## Education 🏫
 
 - [Polytechnique Paris](https://www.ip-paris.fr/en/home-en/) - [Master 2 Data Science](https://www.ip-paris.fr/en/education/masters/applied-mathematics-and-statistics-program/master-year-2-data-science) - *2022/2023* 
   - Courses : Deep Learning, Computer Vision, Missing data and causality, Tail Events Analysis
@@ -13,7 +15,7 @@ I am a graduating student with in-depth knowledge in finance, machine learning, 
 - [Janson de Sailly](https://www.janson-de-sailly.fr/cpge-presentation-generale-structure/) - Classe Préparatoire aux Grandes Écoles - *2017/2019*  
   - Physics and Engineering class, PCSI-PSI* 
 
-# Work Experiences 🏦
+## Work Experiences 🏦
 
 - **Quant Researcher at [Ostrum Asset Management](https://www.ostrum.com/fr/ostrum-en-bref)**
   - On going 6 months internship 
@@ -42,32 +44,4 @@ I am a graduating student with in-depth knowledge in finance, machine learning, 
 - **Mathematics tutor at [Ipesup](https://www.ipesup.fr)**
   - Since 2019
   - Mathematics lessons and tutoring for students in CPGE
-
-# Personal and academic project 🎓
-
-- **Bayesian Statistics Project** - [Github](https://github.com/Zaltarba/Bayesian_statistics_project.git) - *2023*  
-The aim of this project is to group a set of time series into clusters, and to estimate the model describing each cluster. Based on the folowing [article](https://www.researchgate.net/publication/4756297_Model-Based_Clustering_of_Multiple_Time_Series). More about it in [this post](https://zaltarba.github.io/blog/BayesianArticle/).
-
-- **Hidden Markov Models Project** - *2022*  
-Study of the article "A closed-form filter for binary time series", published by Fanaso and al. in 2021.
-The aim of this project is to study and benchmark the performance of the "Optimal Particle Filter", which is
-presented in Section 4.2 of the article, with the well-known Bootstrap Filter algorithm. More about it in [this post](https://zaltarba.github.io/blog/HiddenMarkov/).
-
-- **Hackathon with Ostrum Asset Management** - *2022*  
-First prize for the ESG topic, focusing on the influence of companies' carbon footprints on their default risk  
-
-- **Applied statistics project with Agence France Locale** - *2020/2021*  
-Production of descriptive statistics on French communes for the AFL barometer, identifying financial trajectories followed between 2014 and 2019 with clustering
-
-- **Movie recommendation algorithm with Python** - *2020*  
-Prediction of MovieLens database users' tastes by methods including clustering (k-means), PCA, matrix factorization using numpy, pandas, scipy libraries
-
-# Skills & interests 
-
--**Languages** : French (native) 🇫🇷, English (TOEIC: 910), German (level B1)  
--**Programming languages** : Python, SQL, VBA, DAX, LaTeX  
--**Softwares** : VS Code, Excel, Power BI, Microsoft Access, Powerpoint   
--**Soft skills** : Teamwork, Critical thinking, Curiosity, Autonomy   
--**Sports** : Football ⚽, Golf ⛳, Tennis 🎾, Boxing 🥊   
--**Culture and Hobbies** : Chess ♟️, Cinematography 🎬, Aquariophilia 🐟
 
