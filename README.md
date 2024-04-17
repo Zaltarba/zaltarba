@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a graduating student with in-depth knowledge in finance, machine learning, statistics and econometrics. Highly motivated for a quantitative researcher position involving the use of econometric methods. Seeking full-time employment.
+I am a graduating student with in-depth knowledge in finance, machine learning, statistics and econometrics. 
 
 ## Education 🏫
 
