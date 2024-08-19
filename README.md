@@ -31,7 +31,7 @@ Quantitative Researcher with in-depth knowledge in finance, machine learning, st
   - Implementation of machine learning models such as OLS, LASSO, SARIMAX 
   - Developed a systematic feature selection methodology to identify key predictors in multivariate environments
  
-- **Data Scientist at [BNP Parisbas](https://www.cardif.fr/partenaires/qui-sommes-nous)**
+- **Data Scientist at [BNP Paribas](https://www.cardif.fr/partenaires/qui-sommes-nous)**
   - 6 months internship between 2021 and 2022
   - Developed a robustness index for smartphones using econometric models to quantitatively assess product durability 
   - Managed large datasets with Python in a cloud environment, optimizing data handling and computational efficiency
