@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="XRVQ00kar-lS59fZWSdG0A0uRxQetvXPFSQy6nQZ6FI" />
+
 # Hi there! 👋 I'm Balthazar
 
 Welcome to my GitHub profile! I am a **quantitative researcher** and **PhD student in Computer Science with PSL Lamsade** with a deep passion for **finance**, **time series analysis**, and **machine learning**. 
